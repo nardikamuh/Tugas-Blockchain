@@ -2,7 +2,9 @@
 Tugas Mata Kuliah BlockChain Week 1 -7 
 
 Nama  : Muh Nardika
+
 NIM   : 1103184124
+
 Kelas : TK-42-Pil
 
 NB :
